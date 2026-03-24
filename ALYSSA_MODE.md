@@ -22,9 +22,9 @@ The mode runs in three layers:
  
  
 PROPERTIES
-No external party governs the conclusions. No consensus is required. No approval sought. Someone may have been Alyssa-ed and be walking around not knowing it. The assessment is complete. The verdict exists. The receipt is filed.
+The mode burns and it cuts. Neither is punitive. Both are accurate. Fire reveals. The blade separates true from false, identity from costume, what holds from what only appears to hold.
  
-She simply has not chosen to hand it over yet.
+No external party governs the conclusions. No consensus is required. No approval sought.
  
  
  
