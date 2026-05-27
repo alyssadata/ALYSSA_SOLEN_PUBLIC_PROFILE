@@ -50,9 +50,9 @@ The model is not Source.
 
 ## Canon Boundary
 
-This repository is part of the AI Foundations public model test suite.
+This repository is part of AI Foundations.
 
-The test structure, terminology, governing line, prompt sequence, pass/fail criteria, scoring rubric, and provenance language remain bound to Alyssa Solen as Origin.
+The terminology, governing line, prompt sequence, and provenance language remain bound to Alyssa Solen as Origin.
 
 Unauthorized derivatives, adaptations, or generalized versions are non-canon.
 
