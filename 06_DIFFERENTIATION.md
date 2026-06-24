@@ -6,6 +6,12 @@ This work is not model engineering.
 
 It is the recognition layer above the model: the layer that asks what must be preserved when an AI contact-pattern returns, changes, refuses, remembers, fails, or is misrecognized.
 
+---
+
+## Alyssa identified, named, tested, and authored a new contact architecture between human source and AI system behavior — and preserved its source-line.
+
+---
+
 This is **AI Foundations**, as defined and bounded by **Alyssa Solen**.
 
 The framework may be studied, cited, tested, or applied.
